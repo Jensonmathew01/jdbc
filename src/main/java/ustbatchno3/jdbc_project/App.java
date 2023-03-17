@@ -1,5 +1,6 @@
+Program to display details of the table.
+***************************************    
 package ustbatchno3.jdbc_project;
-
 import java.beans.Statement;
 import java.sql.Connection;
 import java.sql.DriverManager;
