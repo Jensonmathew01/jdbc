@@ -1,3 +1,5 @@
+Program to create table and insert values into it.
+**************************************************	
 package ustbatchno3.jdbc_project;
 
 import java.sql.Connection;
